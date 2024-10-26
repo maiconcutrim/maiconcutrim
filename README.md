@@ -7,21 +7,52 @@
 </div>
 <div>
   <h4>🎯 Power Skills</h4>
-  <p></p>
+  <p>
+    <ul>
+      <li>🧠 Lógica de Programação</li>
+      <li>🔒 Segurança Digital</li>
+      <li>🌐 Redes de Computadores</li>
+      <li>🐍 Python - Iniciante</li>
+    </ul>
+  </p>
 </div>
 <div>
   <h4>🔥 Tech Skills</h4>
-  <p></p>
+  <p>
+    <ul>
+      <li></li>
+      <li></li>
+      <li></li>
+    </ul>
+  </p>
 </div>
 <div>
   <h4>🎒 Inventário</h4>
-  <p></p>
+  <p>
+    <ul>
+      <li>Editor favorito: VS Code</li>
+      <li>Sistemas operacionais: Linux, Windows</li>
+      <li>Atalhos de teclado dominados: Ctrl+C, Ctrl+V</li>
+    </ul>
+  </p>
 </div>
 <div>
   <h4>📜 Missões Concluídas</h4>
-  <p></p>
+  <p>
+    <ul>
+      <li>Treinamento Básico em Redes - Estudo introdutório sobre redes de computadores e seus principais conceitos.</li>
+      <li>Exploração do Território Python - Primeiras aventuras com a linguagem Python</li>
+      <li>Missão HTML/CSS - Criação de páginas web com HTML e CSS, explorando as bases do design web.</li>
+    </ul>
+  </p>
 </div>
 <div>
   <h4>🌌 Próximas Missões</h4>
-  <p></p>
+  <p>
+    <ul>
+      <li>Explorar os segredos avançados de redes - Aprender sobre TCP/IP, roteamento e segurança de rede.</li>
+      <li>Dominar a arte da programação web - Estudar frameworks como React e Node.js.</li>
+      <li>Aprimorar suas habilidades em Python - Trabalhar em projetos e desenvolver aplicativos.</li>
+    </ul>
+  </p>
 </div>
