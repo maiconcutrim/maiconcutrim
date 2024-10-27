@@ -3,7 +3,7 @@
   <p><em>Um explorador da tecnologia, em uma jornada para desvendar os mistérios das redes de computadores, proteger o reino digital com segurança cibernética e conquistar o domínio da programação web e do Python.</em></p>  
 </div>
 <div>
-  <p>🛡️ Classe: DevSecOps<br>🔱 Nível: Aprendiz<br>🌍 Guilda: Exploradores do Código Arcano</p>
+  <p>🛡️ Classe: Dev<br>🔱 Nível: Aprendiz<br>🌍 Guilda: Exploradores do Código Arcano</p>
 </div>
 <div>
   <h4>🎯 Power Skills</h4>
@@ -20,9 +20,10 @@
   <h4>🔥 Tech Skills</h4>
   <p>
     <ul>
-      <li></li>
-      <li></li>
-      <li></li>
+      <li>HTML5, CSS3 e JavaScript</li>
+      <li>Python</li>
+      <li>Conceitos de Segurança Cibernética</li>
+      <li>Conhecimentos em Redes de Computadores</li>
     </ul>
   </p>
 </div>
@@ -55,6 +56,13 @@
       <li>Aprimorar suas habilidades em Python - Trabalhar em projetos e desenvolver aplicativos.</li>
     </ul>
   </p>
+</div>
+<div>
+  <h4>💻 Projetos em Destaque</h4>
+  <ul>
+    <!--<li><strong>Explorador de Redes</strong> - Ferramenta simples para monitoramento de redes, usando conceitos básicos de TCP/IP.</li>
+    <li><strong>Web Page Designer</strong> - Projeto de site responsivo utilizando HTML5 e CSS3.</li>-->
+  </ul>
 </div>
 
 <h4>Contatos:</h4>
