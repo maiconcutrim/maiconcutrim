@@ -3,7 +3,7 @@
   <p><em>Um explorador da tecnologia, em uma jornada para desvendar os mistérios das redes de computadores, proteger o reino digital com segurança cibernética e conquistar o domínio da programação web e do Python.</em></p>  
 </div>
 <div>
-  <p>🛡️ Classe: DevSecOps<br>🔱 Nível: Aprendiz (Nível 5)<br>🌍 Guilda: Exploradores do Código Arcano</p>
+  <p>🛡️ Classe: DevSecOps<br>🔱 Nível: Aprendiz<br>🌍 Guilda: Exploradores do Código Arcano</p>
 </div>
 <div>
   <h4>🎯 Power Skills</h4>
