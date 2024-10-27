@@ -42,7 +42,7 @@
   <p>
     <ul>
       <li>Treinamento Básico em Redes - Estudo introdutório sobre redes de computadores e seus principais conceitos.</li>
-      <li>Exploração do Território Python - Primeiras aventuras com a linguagem Python</li>
+      <li>Exploração do Território Python - Primeiras aventuras com a linguagem Python.</li>
       <li>Missão HTML/CSS - Criação de páginas web com HTML e CSS, explorando as bases do design web.</li>
     </ul>
   </p>
